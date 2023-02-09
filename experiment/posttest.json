@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The maximum angle of diffraction in a plane transmission diffraction grating is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "45°",
+        "b": "180°",
+        "c": "90°",
+        "d": "135°"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 2 ",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "Explanation 1  <a href='https://testbook.com/question-answer/maximum-angle-of-diffraction-in-a-plane-transmissi--5fc79ea3886aa1a9a630ecef'>here</a>",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The optical element used to split a poly-chromatic light into its constituent component colors is called-",
+      "answers": {
+        "a": "Spectrum",
+        "b": "Diffraction grating",
+        "c": "Total internal reflection",
+        "d": "Reflection"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='https://testbook.com/question-answer/the-optical-element-used-to-split-a-poly-chromatic--605f0dbc6d3c10e1fe118483#:~:text=The%20correct%20answer%20is%20option%201)%20i.e.%20Diffraction%20grating.'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
