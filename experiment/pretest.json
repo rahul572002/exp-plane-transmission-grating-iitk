@@ -2,15 +2,15 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Determine the wavelength of spectral lines using plane-transmission grating",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Liner Displacement Measurement",
+        "b": "Surface flatness measurement ",
+        "c": "Angular measurement",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='https://www.shaalaa.com/question-bank-solutions/explain-experimental-method-determine-wavelength-spectral-line-using-diffraction-grating-diffraction-grating_57773'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -19,20 +19,54 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. If the number of lines of a grating increase, its resolving power-",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "increases",
+        "b": "decreases",
+        "c": "both a and b",
+        "d": "does not change"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='https://testbook.com/question-answer/if-the-number-of-lines-of-a-grating-is-increased--607168ae34dc49b60a6135eb#:~:text=%E2%88%B4%20resolving%20power%20%E2%88%9D%20number,resolving%20power%20will%20also%20increase.'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The optical element used to split a poly-chromatic light into its constituent component colors is called-",
+      "answers": {
+        "a": "Diffraction grating",
+        "b": "Spectrum",
+        "c": "Total internal reflection",
+        "d": "Reflection"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://testbook.com/question-answer/the-optical-element-used-to-split-a-poly-chromatic--605f0dbc6d3c10e1fe118483#:~:text=Detailed%20Solution,-Download%20Soln%20PDF&text=The%20correct%20answer%20is%20option%201)%20i.e.%20Diffraction%20grating.'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The condition for observing Fraunhofer diffraction from a single slit is that the wavefront incident on the slit should be",
+      "answers": {
+        "a": "Plane",
+        "b": "Cylindrical",
+        "c": "Spherical",
+        "d": "Elliptical"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://testbook.com/question-answer/the-condition-for-observing-fraunhofer-diffraction--602ce016869a958a390f5921#:~:text=The%20condition%20of%20diffraction%20is,the%20wavelength%20of%20the%20wave.'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
