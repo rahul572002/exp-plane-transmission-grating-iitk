@@ -1,4 +1,3 @@
-### Procedure
 The procedure to determine the wavelength of different spectral lines of mercury light using a plane transmission grating is as follows:<br><br>
 1. Obtain a mercury light source and a plane transmission grating.<br>
 2. Place the mercury light source on one side of the grating, and set up a screen on the other side to observe the diffracted light.<br>
